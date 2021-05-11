@@ -1,0 +1,4 @@
+github.com/dipesh23-apt/phone_normalize v0.0.0-20210511082306-2e058a693f7e h1:izuu7JMcH2ONgHaqeqWfNvW84hKlodjVT/ysF/jwKFU=
+github.com/dipesh23-apt/phone_normalize v0.0.0-20210511082306-2e058a693f7e/go.mod h1:C7cQaJEW4ebS/wFeYnRfcG3Q/ecpNp0FoBKyTOc6Hh0=
+github.com/lib/pq v1.10.1 h1:6VXZrLU0jHBYyAqrSPa+MgPfnSvTPuMgK+k0o5kVFWo=
+github.com/lib/pq v1.10.1/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
